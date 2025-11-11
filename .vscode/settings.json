@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "yago-almeida-melo",
+        "projectKey": "yago-almeida-melo_ci-cd-teste"
+    }
+}
